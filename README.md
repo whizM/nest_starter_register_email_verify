@@ -1,5 +1,5 @@
 <h1>This repository is nest.js have register, login with email verification.</h1>
-<p>This can be useful for start the nest backend project.</p>
+<p>This can be useful for starting the nest backend project.</p>
 😀😀😀
 ## Project setup
 
